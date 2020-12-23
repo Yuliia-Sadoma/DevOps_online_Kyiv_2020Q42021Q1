@@ -60,3 +60,19 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen10.png?raw=true">
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen11.png?raw=true">
+
+2.3 Configuring the USB.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen12.png?raw=true">
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen13.png?raw=true">
+
+2.4 I configured different network modes for VM1, VM2, and made a table of possible connections.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen14.png?raw=true">
+
+#### 3. Work with CLI through VBoxManage.
+
+3.1-3.2 Executing the basic commands of VBoxManage list.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen15.png?raw=true">
