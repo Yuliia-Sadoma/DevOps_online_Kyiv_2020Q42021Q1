@@ -26,3 +26,14 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 1.1-1.2 I got acquainted with the manual and downloaded VirtualBox for Windows and latest Ubuntu desctop.
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen01.png?raw=true">
+
+1.3 I created VM1 and installed Ubuntu.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen02.png?raw=true">
+
+1.4 I got acquainted with the possibilities of VM1 control (start, stop, reboot, save state, etc.).
+
+1.5 I created clone of existing VM1.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen03.png?raw=true">
+
