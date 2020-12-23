@@ -23,4 +23,6 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 
 #### 1. First run VirtualBox and Virtual Machine (VM).
 
-<img src="https://raw.githubusercontent.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/main/m2/task2.1/screenshots/screen01.png?token=ASDYV6D66SY4PRDFL333OWK74MTTI" >
+1.1-1.2 I got acquainted with the manual and downloaded VirtualBox for Windows and latest Ubuntu desctop.
+
+![Image alt](https://raw.githubusercontent.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/main/m2/task2.1/screenshots/screen01.png?token=ASDYV6D66SY4PRDFL333OWK74MTTI)
