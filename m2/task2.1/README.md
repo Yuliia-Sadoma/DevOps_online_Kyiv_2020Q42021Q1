@@ -22,3 +22,5 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 ### PART 2. WORK WITH VIRTUALBOX
 
 #### 1. First run VirtualBox and Virtual Machine (VM).
+
+![Image alt](https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/tree/main/m2/task2.1/screenshots/screen01.png)
