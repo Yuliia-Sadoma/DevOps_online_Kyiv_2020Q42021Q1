@@ -37,3 +37,10 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen03.png?raw=true">
 
+1.6 VM1and VM2 was grouped.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen04.png?raw=true">
+
+1.7 I tried to create a branched tree of snapshots, but I got such queue of snapshots.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen05.png?raw=true">
