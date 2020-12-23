@@ -52,3 +52,5 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen08.png?raw=true">
 
 #### 2. Configuration of virtual machines
+
+
