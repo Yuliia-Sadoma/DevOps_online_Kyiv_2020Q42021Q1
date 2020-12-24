@@ -22,6 +22,8 @@
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/images/screen7.PNG?raw=true">
 
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/images/screen12.PNG?raw=true">
+
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/images/screen8.PNG?raw=true">
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/images/screen9.PNG?raw=true">
