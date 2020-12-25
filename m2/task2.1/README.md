@@ -76,3 +76,30 @@ The main difference between Type 1 and Type 2 Hypervisor is that Type 1 Hypervis
 3.1-3.2 Executing the basic commands of VBoxManage list.
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screen15.png?raw=true">
+
+### PART 3. WORK WITH VAGRANT
+
+1-3) I created new folder and initialized the environment with the default Vagrant box.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot1.png?raw=true">
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot2.png?raw=true">
+
+4) Ran vagrant up.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot4.png?raw=true">
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot5.png?raw=true">
+
+5-6) I used the program PuTTY to connect to the VM and I also recorded the date and time.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot6.png?raw=true">
+
+7) Next, the created VM was deleted.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot7.png?raw=true">
+
+8) I created my own Vagrant box.
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m2/task2.1/screenshots/screenshot8.png?raw=true">
+
