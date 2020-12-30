@@ -16,25 +16,23 @@ Steps 1-8
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m4/task4.1/screenshots/5.PNG?raw=true">
 
+When IP addresses are deleted:
+
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m4/task4.1/screenshots/6.PNG?raw=true">
+
 ### Project 2
 
 Steps 9-11
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m4/task4.1/screenshots/6.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m4/task4.1/screenshots/7.PNG?raw=true">
 
 ### Project 3
 
 Steps 12-13
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m4/task4.1/screenshots/7.PNG?raw=true">
-
-### Project 4
-
-Steps 14-18
-
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m4/task4.1/screenshots/8.PNG?raw=true">
 
-### Project 5
+### Project 4
 
 Steps 14-17
 
