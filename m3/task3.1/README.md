@@ -4,7 +4,7 @@
 
 ### PART 1. 
 
-Creating DB r through the console:
+Creating DB through the console:
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m3/task3.1/screenshots/6.PNG?raw=true">
 
