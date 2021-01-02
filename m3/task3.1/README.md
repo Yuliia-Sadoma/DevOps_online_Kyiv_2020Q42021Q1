@@ -10,8 +10,12 @@
 
 ### PART 3. 
 
+Amazon DynamoDB table:
+
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m3/task3.1/screenshots/1.PNG?raw=true">
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m3/task3.1/screenshots/2.PNG?raw=true">
+
+Using Query and Scan:
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m3/task3.1/screenshots/3.PNG?raw=true">
