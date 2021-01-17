@@ -38,7 +38,7 @@ Command chfn -o change the user's other GECOS information.
 
 7) Using the finger command.
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task13/screenshots/13.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.1/screenshots/13.PNG?raw=true">
 
 8) Listing the contents of the home directory.
 
