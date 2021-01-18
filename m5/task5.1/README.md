@@ -159,11 +159,11 @@ After deleting the labwork2 the soft link don't show any contents, while the har
 
 Few types of devices:
 
--Audio devices
+- Audio devices
 
--USB devices
+- USB devices
 
--PCI devices
+- PCI devices
 
 etc.
 
