@@ -108,7 +108,7 @@ Command ls -ls shows list with long format with file size
 
 - creating a hard and soft link to the labwork2 file in the test subdirectory;
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.1/screenshots/23.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.1/screenshots/23.png?raw=true">
 
 - how to define soft and hard link, what do these concepts;
 
