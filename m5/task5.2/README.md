@@ -34,9 +34,9 @@ The /etc/group file contains the following fields:
 
 - Group Members
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/screenshots/3.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task5.2/screenshots/3.PNG?raw=true">
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/screenshots/4.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task5.2/screenshots/4.PNG?raw=true">
 
 UID - user ID number. Ranges: 0 for root, 1-999 and 65534 (nobody) for system users (pseudo-users), 1000 and above for regular users.
 
@@ -78,7 +78,7 @@ In this command, we can use the following options:
 
  etc.
 
- 6) The "usermod -l login-name old-name" command change the name (account name) of an existing user from the old-name to login_name.
+6) The "usermod -l login-name old-name" command change the name (account name) of an existing user from the old-name to login_name.
 
 7) The /etc/skel directory contains files and directories that are automatically copied over to a new user's home directory when such user is created by the useradd command.
 
@@ -94,9 +94,7 @@ To to unlock an account we can use the passwd -u {UserNameHere} command or userm
 
 10) To remove a user's password we can use the passwd command with option -d (passwd -d {UserNameHere}). This option deletes the user password and makes the account password-less.
 
-11) 
-
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/6.PNG?raw=true">
+11) <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/6.PNG?raw=true">
 
 When y the extended format is used, we can see the following information about directory:
 
@@ -116,9 +114,7 @@ When y the extended format is used, we can see the following information about d
 
 - File name.
 
-12-14) 
-
-Types of Users:
+12-14) Types of Users:
 
 Owner: The user who creates the file or folder is the owner of that file or folder, denoted by ‘u’.
 
@@ -142,9 +138,7 @@ The chown command is used to change the ownership of user and group user for any
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/8.PNG?raw=true">
 
-15)
-
-Permissions can also be represented numerically, using octal values (the digits from 0 to 7). 
+15) Permissions can also be represented numerically, using octal values (the digits from 0 to 7). 
 
 When using octal numeric representation, certain numbers represent certain permissions, and these numbers are added or subtracted from each other to represent the final, combined permissions value. 
 
@@ -166,9 +160,7 @@ The default umask permissions for root user and remaining users are 0022 and 000
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/11.PNG?raw=true">
 
-16) 
-
- The sticky bit is working on the directory. If the sticky bit is set for a directory, all files in the directory can only be deleted or renamed by the owners of the files or by the root user. 
+16) The sticky bit is working on the directory. If the sticky bit is set for a directory, all files in the directory can only be deleted or renamed by the owners of the files or by the root user. 
 
  For example, this is used in the /tmp directory, which acts as a recycle bin for temporary files.
 
