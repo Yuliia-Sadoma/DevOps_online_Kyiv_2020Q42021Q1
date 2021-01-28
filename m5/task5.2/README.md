@@ -18,9 +18,9 @@
 
 - Login shell
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/1.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/1.PNG?raw=true">
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/2.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/2.PNG?raw=true">
 
 In the etc/passwd file we can find real users and pseudo-users or system users (such as daemon, bin, adm, nobody, man, sys, sshd). 
 
@@ -34,9 +34,9 @@ The /etc/group file contains the following fields:
 
 - Group Members
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/screenshots/3.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/screenshots/3.PNG?raw=true">
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/screenshots/4.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task1.1/screenshots/4.PNG?raw=true">
 
 UID - user ID number. Ranges: 0 for root, 1-999 and 65534 (nobody) for system users (pseudo-users), 1000 and above for regular users.
 
@@ -52,7 +52,7 @@ To view UID and all groups associated with username we can use the id {UserNameH
 
 To view only the names of all groups associated with username, we can use the id -nG {UserNameHere} command.
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/5.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/5.PNG?raw=true">
 
 5) To add/create new user accounts we can use the useradd [OPTIONS] USERNAME command. Only root or users with sudo privileges can use the useradd command to create new user accounts.
 
@@ -96,7 +96,7 @@ To to unlock an account we can use the passwd -u {UserNameHere} command or userm
 
 11) 
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/6.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/6.PNG?raw=true">
 
 When y the extended format is used, we can see the following information about directory:
 
@@ -138,9 +138,9 @@ The chmod command is used to change the permission bits of the file or folder.
 
 The chown command is used to change the ownership of user and group user for any file. 
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/7.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/7.PNG?raw=true">
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/8.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/8.PNG?raw=true">
 
 15)
 
@@ -164,7 +164,7 @@ The umask command allows you to view or to set the file mode creation mask, whic
 
 The default umask permissions for root user and remaining users are 0022 and 0002 respectively.
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/11.png?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/11.PNG?raw=true">
 
 16) 
 
@@ -172,10 +172,10 @@ The default umask permissions for root user and remaining users are 0022 and 000
 
  For example, this is used in the /tmp directory, which acts as a recycle bin for temporary files.
 
- <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/9.png?raw=true">
+ <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/9.PNG?raw=true">
 
  chmod +t dir_name command to set sticky bit for the direcrory.
 
-  <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/10.png?raw=true">
+  <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/10.PNG?raw=true">
 
 17) File should have -f attribute, which means that file exists and is a regular file. And also -x attribute, file should have execute permissions for owner, group and others.  
