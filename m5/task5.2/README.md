@@ -34,9 +34,9 @@ The /etc/group file contains the following fields:
 
 - Group Members
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task5.2/screenshots/3.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/3.PNG?raw=true">
 
-<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m1/task5.2/screenshots/4.PNG?raw=true">
+<img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.2/screenshots/4.PNG?raw=true">
 
 UID - user ID number. Ranges: 0 for root, 1-999 and 65534 (nobody) for system users (pseudo-users), 1000 and above for regular users.
 
