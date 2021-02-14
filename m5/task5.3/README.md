@@ -1,8 +1,8 @@
 # Module 2
 
-##TASK5.3
+## TASK5.3
 
-###Part1
+### Part1
 
 1) How many states could has a process in Linux?
 
@@ -170,11 +170,13 @@ Nohup, short for no hang up is a command in Linux systems that keep processes ru
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.3/screenshots/9.PNG?raw=true">
 
-###Part2
+### Part2
 
 SSH connection to host
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.3/screenshots/13.PNG?raw=true">
+
+Implementing 3 different keys for encryption in SSH:
 
 <img src="https://github.com/Yuliia-Sadoma/DevOps_online_Kyiv_2020Q42021Q1/blob/main/m5/task5.3/screenshots/14.PNG?raw=true">
 
