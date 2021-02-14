@@ -137,13 +137,11 @@ amount of processor time taken up, etc.)
 
 14) Concept of priority, what commands are used to set priority?
 
+Nice command is used to run a process with an user defined priority whereas renice command is used to change the priority of a running process. Generally, nice and renice commands are used to change the priority than the default priority of a process.
+
 15) Can I change the priority of a process using the top command? If so, how?
 
 Once given top command, press r. Give PID value of the process you want to change the process value. Give renice value (from -20 to +19)
-
-Nice value of -20 means highest priority value and +19 means lowest priority value. 0 is by default value.
-
-Don't confuse renice value (-20 to +19) with process value (0 to 39)
 
 relation between nice value and priority is :
 
